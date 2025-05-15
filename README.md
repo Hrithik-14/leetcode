@@ -6,17 +6,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Hrithik-14/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Hrithik-14/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Hrithik-14/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
