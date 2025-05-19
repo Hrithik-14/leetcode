@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
+| [0742-to-lower-case](https://github.com/Hrithik-14/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
