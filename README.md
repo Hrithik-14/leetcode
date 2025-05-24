@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Hrithik-14/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -23,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hrithik-14/leetcode/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## String
 |  |
