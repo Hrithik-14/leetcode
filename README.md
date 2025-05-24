@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Hrithik-14/leetcode/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Hrithik-14/leetcode/tree/master/0742-to-lower-case) |
