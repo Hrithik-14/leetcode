@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Hrithik-14/leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Hrithik-14/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Hrithik-14/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/Hrithik-14/leetcode/tree/master/0742-to-lower-case) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
