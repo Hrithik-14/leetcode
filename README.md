@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Hrithik-14/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Hrithik-14/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
