@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Hrithik-14/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Hrithik-14/leetcode/tree/master/0742-to-lower-case) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Hrithik-14/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Simulation
 |  |
 | ------- |
