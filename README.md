@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Hrithik-14/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hrithik-14/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1603-running-sum-of-1d-array](https://github.com/Hrithik-14/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Hrithik-14/leetcode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Hrithik-14/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
