@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hrithik-14/leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Hrithik-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Hrithik-14/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Hrithik-14/leetcode/tree/master/0070-climbing-stairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Hrithik-14/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Hrithik-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Hrithik-14/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hrithik-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hrithik-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
