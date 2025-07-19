@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hrithik-14/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hrithik-14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hrithik-14/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hrithik-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hrithik-14/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hrithik-14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Hrithik-14/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Hrithik-14/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## String Matching
 |  |
