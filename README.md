@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Hrithik-14/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2551-apply-operations-to-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Hrithik-14/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/Hrithik-14/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2551-apply-operations-to-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
