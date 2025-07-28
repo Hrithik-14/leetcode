@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Hrithik-14/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Hrithik-14/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/Hrithik-14/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hrithik-14/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Hrithik-14/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Hrithik-14/leetcode/tree/master/0476-number-complement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hrithik-14/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Hrithik-14/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hrithik-14/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Hrithik-14/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
