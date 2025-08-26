@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Hrithik-14/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3321-type-of-triangle](https://github.com/Hrithik-14/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3321-type-of-triangle](https://github.com/Hrithik-14/leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Hrithik-14/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Hrithik-14/leetcode/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Hrithik-14/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3321-type-of-triangle](https://github.com/Hrithik-14/leetcode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
 | ------- |
