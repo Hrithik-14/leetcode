@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Hrithik-14/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hrithik-14/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hrithik-14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithik-14/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hrithik-14/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Hrithik-14/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hrithik-14/leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Hrithik-14/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Hrithik-14/leetcode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Hrithik-14/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hrithik-14/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hrithik-14/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hrithik-14/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Hrithik-14/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hrithik-14/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hrithik-14/leetcode/tree/master/0389-find-the-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Hrithik-14/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
